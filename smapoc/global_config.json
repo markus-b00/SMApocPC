@@ -1,0 +1,72 @@
+{
+  "path_config": "smapoc/config_file.json",
+  "force_amplifier_sn": {
+    "24456068A": "GSV_multi_CH_A",
+    "24456068B": "GSV_multi_CH_B",
+    "17154059A": "GSV_multi_CH_A",
+    "17154059B": "GSV_multi_CH_B",
+    "25256064A": "GSV_multi_CH_A",
+    "25256064B": "GSV_multi_CH_B"
+  },
+  "force": {
+    "17306857_5N": {
+      "fn": 5,
+      "sn": 0.498,
+      "u_e": 2
+    },
+    "17404730_5N": {
+      "fn": 5,
+      "sn": 0.5032,
+      "u_e": 2
+    },
+    "19104236_0_5N": {
+      "fn": 0.491,
+      "sn": 0.628,
+      "u_e": 2
+    },
+    "24400294_0_5N": {
+      "fn": 0.5,
+      "sn": 0.47059,
+      "u_e": 2
+    },
+    "24400292_0_5N": {
+      "fn": 0.5,
+      "sn": 0.4638,
+      "u_e": 2
+    },
+    "25100058_0_5N": {
+      "fn": 0.5,
+      "sn": 0.47733,
+      "u_e": 2
+    },
+    "24402516_1_0N": {
+      "fn": 1.0,
+      "sn": 0.55863,
+      "u_e": 2
+    },
+    "24301736_10N": {
+      "fn": 10,
+      "sn": 0.72344,
+      "u_e": 2
+    }
+  },
+  "laser": {
+    "int_params": {
+      "IP_AutomaticMode": 3,
+      "IP_Baudrate": 921600,
+      "IP_ChannelNumber": 0,
+      "IP_DeviceInstance": 0,
+      "IP_Parity": 0,
+      "IP_EnableLogging": 0
+    },
+    "str_params": {
+      "IP_Interface": "IF2004_USB"
+    },
+    "IP_SerialNumbers": {
+      "1": "001049",
+      "2": "001050",
+      "3": "001058"
+    }
+  },
+  "laser_offset": 3.41522216796875
+}

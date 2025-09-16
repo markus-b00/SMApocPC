@@ -1,0 +1,19 @@
+<RCC>
+  <qresource prefix="splash">
+    <file>splash.png</file>
+  </qresource>
+  <qresource prefix="img">
+    <file>save.png</file>
+    <file>pause.png</file>
+    <file>play.png</file>
+    <file>webcam.png</file>
+    <file>rec.png</file>
+    <file>stop_rec.png</file>
+    <file>smapoc.png</file>
+    <file>me_messysteme.png</file>
+    <file>mircoepsilon.png</file>
+  </qresource>
+  <qresource prefix="icon">
+    <file>icon.png</file>
+  </qresource>
+</RCC>

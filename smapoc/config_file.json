@@ -1,0 +1,24 @@
+[
+    {
+        "devices": {
+            "SMAPOC": {
+                "port": "COM21"
+            },
+            "WEBCAM": {
+                "number": "2"
+            }
+        },
+        "name": "Test1"
+    },
+    {
+        "devices": {
+            "SMAPOC": {
+                "port": "COM21"
+            },
+            "WEBCAM": {
+                "number": "1"
+            }
+        },
+        "name": "Teste2"
+    }
+]
